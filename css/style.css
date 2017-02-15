@@ -48,22 +48,37 @@
 	
         }	
 
-/* -----------------------------------------------------------
- 	Styling for Body      
------------------------------------------------------------ */
         .hero {
 	width: 100%
         }
+
 
         nav li:hover {
 	background-color:  #B2B2B2;
         }  	
 
-	/*W3C Vaildation Icons Styling*/	
+
+/* -----------------------------------------------------------
+ 	Styling for Body      
+----------------------------------------------------------- */
+
+#main {
+	float:left;
+	width:500px;
+	background:#9c9;
+}
+
+#sidebar {
+	float:right;
+	width:250px;
+	background:#c9c;
+}
 
 /* -----------------------------------------------------------
  	Styling for Footer      
 ----------------------------------------------------------- */
+
+/*W3C Vaildation Icons Styling*/	
          .valid_icon {
 	   text-align: center;
         }
