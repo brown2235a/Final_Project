@@ -51,6 +51,9 @@
 	  width: 100%
         }
 
+  	.navbar {
+   	  margin-bottom: 6px;
+        } 	
 
         nav li:hover {
 	  background-color:  #B2B2B2;
