@@ -77,14 +77,6 @@
  	Styling for Footer      
 ----------------------------------------------------------- */
 
-.container-fluid {
-   padding: 0;
-   position: absolute;
-   left: 0;
-   width: 100%;
-}
-
-
 /*W3C Vaildation Icons Styling*/	
          .valid_icon {
 	    text-align: center;
