@@ -64,13 +64,13 @@
 
 #main {
 	float:left;
-	width:500px;
+	width:75%;
 	background:#9c9;
 }
 
 #sidebar {
 	float:right;
-	width:250px;
+	width:25%;
 	background:#c9c;
 }
 
