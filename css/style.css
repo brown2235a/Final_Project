@@ -13,48 +13,47 @@
 
        /*Allows Image on L and Practice info on R*/
        #header-image {
-            float: left;
+         float: left;
         }	
 
        /*Floats header P and formats text*/
         #heading p {
-	float: right;
-	margin-top: 20px;	
-	font-family: 'Molengo', sans-serif;
-	font-size: 125%;        
-	color: #848482;
+	  float: right;
+	  margin-top: 20px;	
+	  font-family: 'Molengo', sans-serif;
+	  font-size: 125%;        
+	  color: #848482;
          }	
 
        /*Disables underline for links and sets button text size*/
         #heading a {
-	font-size: 90%;
-                 text-decoration:none;
+	  font-size: 90%;
+          text-decoration:none;
         } 	
   
        /*Wanted Phone# to be large and visible*/	
-                 #heading a.phone_num {
-	font-size: 140%;
+       #heading a.phone_num {
+	  font-size: 140%;
         } 
 
 
         .btn {
-	border-radius: 3px;
-	background-color:  rgb(240,240,240);
-	margin-top:4px;
+	  border-radius: 3px;
+	  background-color:  rgb(240,240,240);
+	  margin-top:4px;
         }	
 
        #heading p .btn:hover {
-	background-color: #B2B2B2;
-	
-        }	
+	  background-color: #B2B2B2;
+	}	
 
         .hero {
-	width: 100%
+	  width: 100%
         }
 
 
         nav li:hover {
-	background-color:  #B2B2B2;
+	  background-color:  #B2B2B2;
         }  	
 
 
