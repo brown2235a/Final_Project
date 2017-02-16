@@ -5,7 +5,7 @@ The final project is a responsive website for a local dental office.   HTML/CSS/
 
 Key features: <br />
 -Social media icons created entirely with CSS <br />
--Personalized map rendered with the Google map javascript api <br />
+-Personalized responsive map rendered with the Google map javascript api <br />
 -Appointment request widget <br />
 -Click to call phone number 
 
