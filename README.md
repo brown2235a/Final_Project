@@ -3,11 +3,11 @@
 Description:
 The final project is a responsive website for a local dental office.   HTML/CSS/Javascript and the bootsrap framework were utilized to create the custom site.  
 
-Key features: 
--Social media icons created entirely with CSS
--Personalized map rendered with the Google map javascript api
--Appointment request widget
--Click to call phone number
+Key features: <br />
+-Social media icons created entirely with CSS <br />
+-Personalized map rendered with the Google map javascript api <br />
+-Appointment request widget <br />
+-Click to call phone number 
 
 How to View Website:
 Run index.htm
