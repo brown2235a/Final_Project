@@ -1,7 +1,13 @@
 # Final_Project
 
 Description:
-A website for a local dental office. This is my attempt to recreate a site using responsive design along with some additional features such as a make an appointment button.
+The final project is a responsive website for a local dental office.   HTML/CSS/Javascript and the bootsrap framework were utilized to create the custom site.  
+
+Key features: 
+-Social media icons created entirely with CSS
+-Personalized map rendered with the Google map javascript api
+-Appointment request widget
+-Click to call phone number
 
 How to View Website:
 Run index.htm
