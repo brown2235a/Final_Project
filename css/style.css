@@ -82,6 +82,12 @@ footer {
 	  color: #fff;
 }
 
+#map {
+    width:100%;
+    height:250px;
+    color: #000000;
+}
+
 .footerlogo {
     display: block;
     margin: 8px auto 0px;
@@ -98,7 +104,6 @@ footer {
 
 .social-icons a:hover{
 	opacity: .6;
-	
 }
 
 .row-fluid {
@@ -115,7 +120,7 @@ footer {
 }
 
 /*W3C Vaildation Icons Styling*/	
-         .valid_icon {
+.valid_icon {
 	    	margin-top: 20px; 
 		text-align: center;
          }
