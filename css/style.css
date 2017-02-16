@@ -77,7 +77,45 @@
  	Styling for Footer      
 ----------------------------------------------------------- */
 
+footer {
+	  background-color:  #595959;
+	  color: #fff;
+}
+
+.footerlogo {
+    display: block;
+    margin: 8px auto 0px;
+}
+
+.social-icons a{
+	background: #1398ca;
+	color: #fff;
+	border-radius: 4px;
+ 	margin: 5px;
+	padding: 8px 10px;
+	transition: all 0.2s ease-in-out;
+}
+
+.social-icons a:hover{
+	opacity: .6;
+	
+}
+
+.row-fluid {
+  display: flex;
+  margin: 0px 5p;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.quick {
+	margin: 10px;
+	color: white;
+}
+
 /*W3C Vaildation Icons Styling*/	
          .valid_icon {
-	    text-align: center;
+	    	margin-top: 20px; 
+		text-align: center;
          }
