@@ -152,7 +152,12 @@
         });
 infowindow.open(map, marker);
 
-
+//Resize
+	google.maps.event.addDomListener(window, "resize", 
+	function() {
+    		google.maps.event.trigger(map, "resize");
+    		map.setCenter({lat: 38.243100, lng: -85.532108});
+	});
 	
         //Associate the styled map with the MapTypeId and set it to display.
         map.mapTypes.set('styled_map', styledMapType);
