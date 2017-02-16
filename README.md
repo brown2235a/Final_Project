@@ -5,3 +5,6 @@ A website for a local dental office. This is my attempt to recreate a site using
 
 How to View Website:
 Run index.htm
+
+Preview:
+https://htmlpreview.github.io/?https://github.com/brown2235a/Final_Project/blob/master/index.htm#
