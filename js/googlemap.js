@@ -143,8 +143,8 @@
   var contentString = '<div id="content">'+
             '<div id="siteNotice">'+
             '</div>'+
-            'URSmile Dental Office<br />'+
-            '123D Westwood Circle<br /> Louisville, KY 40220<br /> <a class="phone_num" href="tel:1-888-555-5555">(888)URSMILE </a><br />' +       
+            '<a href="https://goo.gl/maps/GmrurnU1E4s" target="_blank"><span style=\"font-weight: bold;\">URSmile Dental Office</span><br />'+
+            '123D Westwood Circle<br /> Louisville, KY 40220<br />*Click for Directions</a><br /> <br />' +
             '</div>';
 
         var infowindow = new google.maps.InfoWindow({
