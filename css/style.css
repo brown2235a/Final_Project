@@ -222,6 +222,10 @@ footer {
 	opacity: .6;
 }
 
+.quick a{
+  color: #fff;
+}
+
 .row-fluid {
   display: flex;
   margin: 0px 5p;
