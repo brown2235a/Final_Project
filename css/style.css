@@ -244,3 +244,27 @@ footer {
 	    	margin-top: 20px;
 		text-align: center;
          }
+
+/* ---------------------------------------------------------------------- */
+/*  From Small Devices Up To Medium Devices
+ /* ---------------------------------------------------------------------- */
+@media (max-width: 767px) {
+
+
+ #header-image {
+        float: none;
+        clear: both;
+	  display:block;
+	  margin:0 auto;
+  }
+
+
+ #heading div.container.contact {
+	visibility: hidden;
+	margin:0;
+	padding:0;
+	height: 0;
+  }
+
+
+}
