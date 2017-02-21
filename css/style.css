@@ -226,9 +226,9 @@ footer {
   color: #fff;
 }
 
-.row-fluid {
+footer .container-fluid {
   display: flex;
-  margin: 0px 5p;
+  margin: 0px;
   align-items: center;
   justify-content: center;
 
