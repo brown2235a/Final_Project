@@ -19,7 +19,7 @@
        /*Disables underline for links and sets button text size*/
         #heading a {
 	        font-size: 90%;
-          text-decoration:none;
+         	        text-decoration:none;
         }
 
        /*Wanted Phone# to be large and visible*/
@@ -50,15 +50,10 @@
 	           background-color:  #B2B2B2;
         }
 
-
+    
 /* -----------------------------------------------------------
  	Styling for Body
 ----------------------------------------------------------- */
-
-#main {
-	float:left;
-	width:75%;
-}
 
 #sidebar {
 	float:right;
@@ -252,10 +247,10 @@ footer {
 
 
  #header-image {
-        float: none;
-        clear: both;
-	  display:block;
-	  margin:0 auto;
+        	float: none;
+        	clear: both;
+	display:block;
+	margin:0 auto;
   }
 
 
@@ -265,6 +260,18 @@ footer {
 	padding:0;
 	height: 0;
   }
+
+button.navbar-toggle {
+	float: none;	
+	color: #B2B2B2;
+	margin-top: 0;
+	height: 75px;
+}
+
+
+a.navbar-brand {
+	visibility: visible;
+}
 
 
 }
