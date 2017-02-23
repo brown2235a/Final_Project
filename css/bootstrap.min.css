@@ -5317,6 +5317,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     .navbar-form .form-group:last-child {
         margin-bottom: 0
     }
+    .navbar .navbar-default {height:auto; margin:0;padding:0;}	
 }
 
 @media (min-width:768px) {
