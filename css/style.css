@@ -43,7 +43,7 @@
         }
 
   	     .navbar {
-   	        margin-bottom: 6px;
+   	        margin-bottom: 0;
         }
 
         nav li:hover {
@@ -167,6 +167,11 @@ footer {
     color: #000000;
 }
 
+.hero {
+	           margin-top: 4px;
+        }
+
+
 .footerlogo {
     display: block;
     margin: 8px auto 0px;
@@ -218,21 +223,27 @@ footer {
         	float: none;
         	clear: both;
 	display:block;
-	margin:0 auto;
+	margin:4px auto;
   }
 
 
  #heading div.container.contact {
-	visibility: hidden;
+	display:none;
 	margin:0;
 	padding:0;
 	height: 0;
   }
 
+.container.right.contact {margin:0;
+	padding:0;
+	height: 0;
+}
+
+
 button.navbar-toggle {
-	float: none;
+	float: none;clear:both;
 	color: #B2B2B2;
-	margin-top: 0;
+	margin: 0;
 	height: 75px;
 }
 
