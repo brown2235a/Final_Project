@@ -138,7 +138,7 @@
           title: 'URSmile',
         }); 
 
-	//Info Window for Map Marker
+	//Info Window for Map Marker and link for directions
 
   var contentString = '<div id="content">'+
             '<div id="siteNotice">'+
@@ -152,7 +152,7 @@
         });
 infowindow.open(map, marker);
 
-//Resize
+//Resize, responsive layout
 	google.maps.event.addDomListener(window, "resize", 
 	function() {
     		google.maps.event.trigger(map, "resize");
